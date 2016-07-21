@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Coco the Pibble]]></title>
         <description><![CDATA[Coco the Pibble]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://cocothepibble.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 18:46:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 20:34:32 GMT</lastBuildDate>
+        <atom:link href="http://cocothepibble.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76a95f99-245b-4679-9101-31b89922d7ba.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/76a95f99-245b-4679-9101-31b89922d7ba.jpg</link>
+            <guid isPermaLink="false">423bb20a-9d52-4986-a1d6-ae9ee2136c0e</guid>
+            <pubDate>Thu, 21 Jul 2016 20:34:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First post]]></title>
             <description><![CDATA[<article><h1>First post</h1><p>More content coming after this nap</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6672f0ff-dc8f-4a92-8df1-fce5988bad67.jpg"></article>]]></description>
