@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.942445
+  lightness: 0.04340412
+  brandStrength: 0.6343452
+  brandColors:
+    - '#0E0E0C'
+    - '#A59D90'
+    - '#C8BDAA'
+    - '#434240'
+    - '#785D40'
+  rhythmicContrast: 0.7259808
+typography_spectrum: 0.218638
+name: CocoPibble
