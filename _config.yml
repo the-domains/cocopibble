@@ -1,14 +1,7 @@
-color:
-  saturation: 0.942445
-  brandStrength: 0.6308244
-  rhythmicContrast: 0.7259808
-  brandColors:
-    - '#161614'
-    - '#454464'
-    - '#C3AD88'
-    - '#8A7E66'
-    - '#D7CBB5'
-  lightness: 0.04340412
+name: Coco the Pibble
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.218638
 collections:
   - index:
       path: /
@@ -21,6 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0
-typography_spectrum: 0.218638
-name: CocoPibble
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#161614'
+    - '#454464'
+    - '#C3AD88'
+    - '#8A7E66'
+    - '#D7CBB5'
+  brandStrength: 0.6308244
+  lightness: 0.04340412
+  saturation: 0.942445
+  rhythmicContrast: 0.7259808
+purpose: []
