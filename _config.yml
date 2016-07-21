@@ -1,14 +1,26 @@
-layout_spectrum: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.942445
+  brandStrength: 0.6308244
   lightness: 0.04340412
-  brandStrength: 0.6343452
   brandColors:
-    - '#0E0E0C'
-    - '#A59D90'
-    - '#C8BDAA'
-    - '#434240'
-    - '#785D40'
+    - '#161614'
+    - '#454464'
+    - '#C3AD88'
+    - '#8A7E66'
+    - '#D7CBB5'
   rhythmicContrast: 0.7259808
 typography_spectrum: 0.218638
+layout_spectrum: 0
 name: CocoPibble
